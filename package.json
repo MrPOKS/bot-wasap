@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrPOKS/bot-wasap"
+    "url": "git+https://github.com/"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MrPOKS/bot-wasap/issues"
+    "url": "https://github.com/issues"
   },
-  "homepage": "https://github.com/MrPOKS/bot-wasap#readme"
+  "homepage": "https://github.com/#readme"
 }
